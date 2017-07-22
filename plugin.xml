@@ -21,6 +21,8 @@
                 <param name="ios-package" value="StartApp" />
             </feature>
         </config-file>
+
+        <header-file src="src/ios/StartApp.h"/>
         <source-file src="src/ios/StartApp.m" />
     </platform>
 </plugin>
